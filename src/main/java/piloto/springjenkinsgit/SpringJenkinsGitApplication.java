@@ -8,6 +8,7 @@ public class SpringJenkinsGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJenkinsGitApplication.class, args);
+		System.out.println("Caaa");
 	}
 
 }
